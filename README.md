@@ -51,7 +51,6 @@ Projeto voltado para análise, organização e tratamento de dados de preços ut
 📫 Contato
 
 LinkedIn: linkedin.com/in/edilson-salustiano-516ab8202
-
 E-mail: edilsonlima19777@hotmail.com
 
 🎯 Objetivo:
