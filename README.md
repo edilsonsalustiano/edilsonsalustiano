@@ -36,17 +36,17 @@ Desenvolvedor Python com foco em automação de processos, desenvolvimento backe
 🎓 Sistema de Graduação
 
 Sistema web desenvolvido com Django para gerenciamento acadêmico, incluindo cadastro de alunos, modalidades, controle de documentos e funcionalidades administrativas.
-🔗 https://github.com/edilsonsalustinao/Sistema-Graduacao
+🔗 (https://github.com/edilsonsalustiano/Sistema-Graduacao.git)
 
 🤖 Extração de Dados com Selenium e MySQL
 
 Automação para coleta de dados na web utilizando Selenium, tratamento dos dados com Pandas e armazenamento em banco de dados MySQL.
-🔗 https://github.com/edilsonsalustinao/Extracao_de_Dados
+🔗 (https://github.com/edilsonsalustiano/Extracao_de_Dados.git)
 
 📊 Manipulação e Automação de Preços
 
 Projeto voltado para análise, organização e tratamento de dados de preços utilizando Python e Pandas.
-🔗 https://github.com/edilsonsalustinao/Automacao_e_Manipulacao_de_Precos
+🔗 (https://github.com/edilsonsalustiano/Manipula_o_de_Dados.git)
 
 📫 Contato
 
